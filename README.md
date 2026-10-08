@@ -219,4 +219,4 @@ yuzu is available as a **full free version** with all features and updates inclu
 Get started with yuzu today and immerse yourself in the exciting world of Nintendo Switch gaming on your Windows PC! Download now and experience the thrill of your favorite games like never before!
 
 ---
-**Last updated:** 2026-10-08 09:35:58 UTC
+**Last updated:** 2026-10-08 17:01:05 UTC
